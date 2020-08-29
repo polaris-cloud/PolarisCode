@@ -8,5 +8,9 @@ creat a new branch is quick
 creat a new branch is quick And simple
 qiu jianfen
 qiu lemon
+<<<<<<< HEAD
 gsadf a
 test is issue
+=======
+df
+>>>>>>> 4c23324... qiulemon

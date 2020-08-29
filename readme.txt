@@ -4,3 +4,4 @@ i like git;
 this is what i lose for much time before
 git has a mutable index called stage
 git tracks changes
+creat a new branch is quick 
